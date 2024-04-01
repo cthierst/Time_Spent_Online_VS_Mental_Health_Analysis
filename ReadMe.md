@@ -1,4 +1,4 @@
-# Placeholder Title
+# Examining the Effects of Internet Usage on Mental Well-being of Ontarians
 
 ## Overview
 This repository contains all files necessary to conduct an analysis on the Ontarian population's mental health status in relation to rate of internet usage. The aim of this analysis is to determine if increased internet use influences mental health status. It also considers gender and visible minority identity. 
