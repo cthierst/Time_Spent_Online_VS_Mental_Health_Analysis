@@ -23,7 +23,7 @@ pip install [package name]
 ## Downloading Data
 The data for this paper comes from Statistics Canada's 2020 Canadian Internet Use Survey. To access this data you will need to download it first from their webiste then use SPSS to open and save the data as a CSV file.
 
-The raw data for this project can be found in the CIUS_2020_raw.csv file.
+After downloading the raw data we recommending naming it: CIUS_2020_raw.csv
 
 ## Cleaning Data
 The data was cleaned using python to filter for relevant variables to the study. Values were adjusted to help with human-readability and outliers and instances of missing data were removed. This resulted in two versions of our cleaned data CSV file, one for variable measuring and one to assist in cluster analysis.
